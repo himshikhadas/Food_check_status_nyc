@@ -1,0 +1,4 @@
+precomputed_assets/*.pkl filter=lfs diff=lfs merge=lfs -text
+precomputed_assets/*.npy filter=lfs diff=lfs merge=lfs -text
+precomputed_assets/*.bin filter=lfs diff=lfs merge=lfs -text
+precomputed_assets/* filter=lfs diff=lfs merge=lfs -text
